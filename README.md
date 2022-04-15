@@ -14,9 +14,9 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Author-thenudemaster-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Open%20Source-Yes-noyon?style=flat-square">
+  <img src="https://img.shields.io/badge/Open%20Source-Yes-mr. ex?style=flat-square">
   <img src="https://img.shields.io/badge/MADE%20IN-BANGLADESH-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20By-Noyon-noyon?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20By-Mr. Ex-mr. ex?style=flat-square">
 </p>
 
 <p align="center">A beginners friendly, Automated cloning  tool with 30+ templates.</p>
