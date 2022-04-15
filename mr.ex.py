@@ -51,7 +51,7 @@ logo = """
 \n\033[0m----------------------------------
 \033[1;92mAuthor \033[1;93m: Mr. Ex
 \033[1;92mFacebook \033[1;93m: RAKIBUL ISLAM NOYON
-\033[1;92mDisclaimer \033[1;93m: Its For Educational Purpose
+\033[1;92mSpamming Team \033[1;93m: Spammer Unity & Force Of Black Army
 \033[0m----------------------------------
 
 """
@@ -61,10 +61,10 @@ def main():
     os.system('clear')
     print logo
     print ''
-    print ' [1].\x1b[1;96m Start Cloning'
-    print ' \033[0m[2].\x1b[1;96m Follow In Facebook'
-    print ' \033[0m[3].\x1b[1;96m FOLLOW MY SECOND PAGE '
-    print ' \033[0m[0].\x1b[1;96m Exit Tool \n'
+    print ' [1]\x1b[1;96m Start Cloning'
+    print ' \033[0m[2]\x1b[1;96m Follow Me In Facebook'
+    print ' \033[0m[3]\x1b[1;96m FOLLOW MY SECOND PAGE '
+    print ' \033[0m[0]\x1b[1;96m Exit Tool \n'
     print ''
     log_sel()
 
